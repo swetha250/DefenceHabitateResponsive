@@ -3503,6 +3503,8 @@ input[type="button"].btn-block {
 
 
 
+
+
 .custom-control-input:checked ~ .custom-control-label::before {
   color: #fff;
   border-color: #FF4800;
@@ -9473,6 +9475,7 @@ h3,
 h4,
 h5 .font-weight-semi-bold {
   font-weight: 600 !important;
+  color: darkblue;
 }
 
 h6,
@@ -9483,6 +9486,7 @@ h6,
 p,
 .font-weight-normal {
   font-weight: 400 !important;
+  font-family: 'Roboto Slab', serif;
 }
 
 .font-weight-light {
@@ -9707,4 +9711,16 @@ p,
   margin: 0;
   padding: 0;
   list-style-type: none;
+}
+
+.paraFont {
+  font-family: 'Roboto Slab', serif;
+  text-align: justify;
+}
+
+.homepageheader {
+  text-align: center;
+  font-size: 48px;
+  font-weight: 900;
+  color: darkblue;
 }
