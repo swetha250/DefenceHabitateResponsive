@@ -5,7 +5,9 @@
  * Copyright 2011-2020 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
+ /* gallery */
  
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -161,7 +163,11 @@ a {
 
 a:hover {
   color: #b33200;
-  text-decoration: underline;
+ 
+}
+
+.dropdown1, .dropdow2{
+  display: none;
 }
 
 a:not([href]):not([class]) {
