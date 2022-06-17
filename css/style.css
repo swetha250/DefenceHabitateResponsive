@@ -9869,3 +9869,32 @@ text-align: right;
  end header
 ================
 
+*/
+.thumbnail{
+  margin-bottom: 30px;
+}
+.cicontactform{
+  margin-top: 50px;
+}
+.cibox{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 20px;
+  margin-bottom: 50px;
+}
+.cicon{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 10px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.hed {
+  color: var(--b);
+  font-weight: bolder;
+}
+.abtspan1{
+  width: 22%;
+  height: 2px;
+  background: var(--g);
+  margin: auto;
+  margin-bottom: 20px;
+}
